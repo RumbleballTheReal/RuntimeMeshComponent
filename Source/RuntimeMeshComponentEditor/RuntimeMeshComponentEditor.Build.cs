@@ -30,6 +30,7 @@ public class RuntimeMeshComponentEditor : ModuleRules
             new string[]
             {
                 "Core",
+                "PhysicsCore"
 				// ... add other public dependencies that you statically link with here ...
                 
             }

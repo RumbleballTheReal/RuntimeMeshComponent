@@ -1,4 +1,6 @@
-# UE4 Runtime Mesh Component
+# Runtime Mesh Component Plugin for UE4 [4.23]
+
+*This fork is just slightly modified from the original to compile on UE4 4.23*
 
 ## I'm actually back! I'm planning the next stage for the RMC!
 
